@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007105833518",
+    "firebase_url": "https://productscart-d5f65.firebaseio.com",
+    "project_id": "productscart-d5f65",
+    "storage_bucket": "productscart-d5f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007105833518:android:48dc3e1413009adfe13dbf",
+        "android_client_info": {
+          "package_name": "com.productscart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007105833518-661ojb3ta0jc0d0src6rd33ak98a9ru7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVgpfJxm4ok2TQ1CNtVAsEwDV3g2oDgc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007105833518-661ojb3ta0jc0d0src6rd33ak98a9ru7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
